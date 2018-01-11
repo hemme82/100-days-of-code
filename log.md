@@ -10,4 +10,11 @@ First Day was Dec 17th and I'm finally following the rules of 100DaysOfCode.
 
 **Links to work:** Need some of those here.
 
+### Day 24: January 11, 2018 
+
+**Today's Progress**: Setup a github page to show some work.
+
+**Thoughts:** My hope is that using github this way will get me comfortable using git in the terminal(git bash for me).
+
+**Links to work:** [my github page](https://hemme82.github.io/davehemmesch.github.io/)
 
